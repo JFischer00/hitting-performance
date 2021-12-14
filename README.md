@@ -36,7 +36,7 @@ Finally, I checked for any instances of 0 PA or AB to ensure no completely null 
 ## Data Analysis
 First, I ran some descriptive queries, just to get a feel for the dataset (all of my queries can be found [here](HittingAnalysis.sql)). Next, I began identifying possible baseball statistics I could use to try to predict overall hitting performance. I ended up deciding to use batting average, home runs, strikeouts, runs per game, and on-base percentage in my [final presentation](https://youtu.be/hrNl77nb5k8). For some of these statistics, I compared league averages vs league leaders, which led to interesting insights.
 
-I wasn't able to make a definite conclusion about my initial hypothesis, as there are many factors and much more complex research that can be and has been done on this subject. I was able to draw a couple interesting conclusions though and all of my Tableau visualizations are available [here](HittingViz.twbx).
+I wasn't able to make a definite conclusion about my initial hypothesis, as there are many factors and much more complex research that can be and has been done on this subject. I was able to draw a couple interesting conclusions though, and all of my Tableau visualizations are available [here](HittingViz.twbx).
 ## Project Conclusion
 After working through this project I came to a few conclusions:
 
@@ -44,4 +44,4 @@ After working through this project I came to a few conclusions:
 2. More home runs doesn't equal more runs scored. Even as home run counts shot up across the league, runs per game remained steady, even slightly declining over time.
 3. Home runs are not a good measure of overall hitting performance. As home runs grew exponentially, strikeouts did too. Meanwhile, batting average and on-base percentage stayed level or even dipped slightly. Clearly there's more to being a great hitter than just home runs.
 
-None of them definitively answer my original hypothesis, but they are all valuable insights nonetheless, and this was a fun project for me to work on.
+None of these definitively answer my original hypothesis, but they are all valuable insights nonetheless, and this was a fun project for me to work on.
